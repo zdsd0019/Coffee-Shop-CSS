@@ -10,9 +10,9 @@
 
 .title-bg{
     background-image: url(../assets/coffee-circle.jpg);
-    background-size: 75% 100%;
+    width: 1440px;
+    height: 575px;
     background-repeat: no-repeat;
-    height: 75%;
     background-position: center;
     background-size: cover;
 }
