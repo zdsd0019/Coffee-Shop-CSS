@@ -33,6 +33,16 @@
     text-align: center;
 }
 
+#colddrinks {
+    color: #464646;
+    text-align: center;
+}
+
+#pastries {
+    color: #464646;
+    text-align: center;
+}
+
 .product-heading {
     text-align: center;
 }
@@ -48,4 +58,8 @@
 
 .product-card-two {
     background-color: #f7f7f7;
+}
+
+.product-description {
+    width: 40%;
 }
