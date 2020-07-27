@@ -68,3 +68,11 @@ h3{
     border-width: 2px;
     offset: 5px;
 }
+
+.product-card-one {
+    background-color: #fff0ed;
+}
+
+.product-card-two {
+    background-color: #f7f7f7;
+}

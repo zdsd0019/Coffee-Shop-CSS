@@ -1,1 +1,11 @@
-/* coming soon */
+.discount-banner{
+    width: 1137px;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    font-size: 45px;
+}
+
+.product-price {
+    color: #5bacc3;
+}
