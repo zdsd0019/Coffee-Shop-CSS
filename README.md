@@ -4,3 +4,4 @@ So far, we have created the structure for the Nitro Coffee menu. To make it more
 
 With your knowledge about basic CSS properties, use the mockup and style guide provided to create the following menu design. To be able to properly position the hero image, use CSS to add the image.
  
+<img src="./assets/menu_day_2_mockup.jpg" />
