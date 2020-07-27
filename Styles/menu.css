@@ -29,8 +29,23 @@
 }
 
 #hotdrinks {
-    width: 450px;
-    height: 185px;
     color: #464646;
     text-align: center;
+}
+
+.product-heading {
+    text-align: center;
+}
+
+.product-price {
+    color: #5bacc3;
+    text-align: center;
+}
+
+.product-card-one {
+    background-color: #fff0ed;
+}
+
+.product-card-two {
+    background-color: #f7f7f7;
 }
