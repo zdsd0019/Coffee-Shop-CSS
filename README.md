@@ -8,6 +8,10 @@ With your knowledge about basic CSS properties, use the mockup and style guide p
  
 # 2. Coffee Shop: Styling the Landing Page
 
+So far, we have created the structure for the Nitro Coffee landing page. To make it more attractive to customers, lets add some basic styling.
+
+With your knowledge about basic CSS properties, use the mockup and style guide provided to recreate the following landing page design.
+
 ##  <img src="./assets/index_day_2_mockup.jpg" />
 
 
