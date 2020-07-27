@@ -59,3 +59,12 @@ h3{
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
 }
+
+#button{
+    width: 180px;
+    height: 55px;
+    color: white;
+    background-color: #5bacc3;
+    border-width: 2px;
+    offset: 5px;
+}
