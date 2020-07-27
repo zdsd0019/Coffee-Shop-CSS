@@ -17,3 +17,13 @@
     background-size: cover;
 }
 
+.menu-nav {
+    text-align: center;
+    width: 100%;
+    height: 74px;
+    background-color: #393939;
+}
+
+.menu-link {
+    color: white;
+}

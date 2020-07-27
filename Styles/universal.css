@@ -26,6 +26,8 @@ h3{
 .nav-link{
     font-family: Helvetica, Arial, sans-serif;
     font-size: 21px;
+    list-style-type: none;
+    text-decoration: none;
 }
 
 .button{
