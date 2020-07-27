@@ -1,72 +1,72 @@
 h1{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 60px;
+    font-size: 3.75rem;
     font-weight: 100;
 }
 
 h2{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 60px;
+    font-size: 3.75rem;
     font-weight: 100;
 }
 
 h3{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 33px;
+    font-size: 2.06rem;
     font-weight: 100;
 }
 
 .footer-heading{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 33px;
+    font-size: 2.06rem;
     font-weight: 100;
 }
 
 .nav-heading{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 50px;
+    font-size: 3.125rem;
     font-weight: 100;
 }
 
 .nav-link{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 21px;
+    font-size: 1.31rem;
     list-style-type: none;
     text-decoration: none;
 }
 
 .button{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 21px;
+    font-size: 1.31rem;
 }
 
 .discount-text{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 45px;
+    font-size: 2.81rem;
 }
 
 .text{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 33px;
+    font-size: 2.06rem;
 }
 
 .small-text{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 21px;
+    font-size: 1.31rem;
 }
 
 .text{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 
 #button{
-    width: 180px;
-    height: 55px;
+    width: 11.25rem;
+    height: 3.44rem;
     color: white;
     background-color: #5bacc3;
-    border-width: 2px;
-    offset: 5px;
+    border-width: 0.13rem;
+    offset: 0.31rem;
 }
 
 .product-card-one {
